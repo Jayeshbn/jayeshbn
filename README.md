@@ -16,7 +16,7 @@ College in Bengaluru, Karnataka.
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="linkedin.com/in/jayeshbn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jayeshbn" height="30" width="40" /></a> &nbsp&nbsp
+<a href="https://www.linkedin.com/in/jayeshbn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jayeshbn" height="30" width="40" /></a> &nbsp&nbsp
 <a href="mailto:jayeshbn10@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="linkedin.com/in/jayeshbn" height="35" width="40" /></a>
 </p> 
 
