@@ -12,7 +12,7 @@ College in Bengaluru, Karnataka.
 
 ✨ Excited to connect with fellow professionals, enthusiasts, and potential collaborators.
 
-🎯 Portfolio website : [portfolio]()
+🎯 Portfolio website : [portfolio](https://my-portfolio-lake-sigma-13.vercel.app/)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
