@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh bn</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 <img align="right" heigh="100px" width="400"  alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 <br>
 
-🎓 Pursuing Bachelor's in Electronic and communication engineer @ Bangalore Institute of Technology
-College in Bengaluru, Karnataka.
+🎓 Pursuing Bachelor degree @ Bangalore Institute of Technology College in Bengaluru, Karnataka.
 
-💻 Passionate about HTML, CSS, JavaScript, Tailwind CSS and ReactJS.
+💻 Passionate about Web developer, Database and Networking.
 
 🚀 Actively crafting engaging projects and aspiring to excel as a front-end developer.
 
