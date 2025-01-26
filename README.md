@@ -7,7 +7,7 @@
 
 💻 Passionate about Web developer, Database and Networking.
 
-🚀 Actively crafting engaging projects and aspiring to excel as a front-end developer.
+🚀 Actively crafting engaging projects and aspiring to excel as a Full stack developer.
 
 ✨ Excited to connect with fellow professionals, enthusiasts, and potential collaborators.
 
