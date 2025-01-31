@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh BN</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<img align="right" height="280px" width="400px" alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img align="right" height="220px" width="300px" alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 ## 🏆 About Me  
 - 🎓 Pursuing a **Bachelor's Degree** at *Bangalore Institute of Technology, Karnataka*.  
@@ -17,6 +17,7 @@
 <a href="https://www.linkedin.com/in/jayeshbn" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
 <a href="https://github.com/jayeshbn" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="github" /></a>
 <a href="mailto:jayeshbn10@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://my-portfolio-lake-sigma-13.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
