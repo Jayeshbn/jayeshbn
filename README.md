@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh BN</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<img align="right" height="220px" width="300px" alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img align="right" height="280px" width="300px" alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 ## 🏆 About Me  
 - 🎓 Pursuing a **Bachelor's Degree** at *Bangalore Institute of Technology, Karnataka*.  
