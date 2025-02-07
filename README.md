@@ -9,7 +9,8 @@
 - 🚀 Skilled in **C, C++, JavaScript, React, Node.js, PostgreSQL, Docker, AWS**.  
 - 📌 Currently exploring **System Design, Cybersecurity, and DevOps**.  
 - 🌟 Open to **collaborations, hackathons, and tech discussions**.  
-
+- 📂 <a href="https://my-portfolio-lake-sigma-13.vercel.app/">Portfolio</a>
+- 📄 <a href="https://drive.google.com/file/d/1YT8nISDj2UCK_WAHDVH6W6NMn8R4EH0C/view?usp=sharing">Resume</a>
 ---
 
 ## 🔗 Connect with Me  
