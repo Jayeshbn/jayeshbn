@@ -6,11 +6,11 @@
 ## 🏆 About Me  
 - 🎓 Pursuing a **Bachelor's Degree** at *Bangalore Institute of Technology, Karnataka*.  
 - 💻 Passionate about **Full-Stack Development, Networking, Security, and Cloud Computing**.  
-- 🚀 Skilled in **C, C++, JavaScript, React, Node.js, PostgreSQL, Docker, AWS**.  
+- 🚀 Skilled in **C, C++,Java, JavaScript, React, Node.js, Express.js, PostgreSQL, Docker, AWS, Networking**.  
 - 📌 Currently exploring **System Design, Cybersecurity, and DevOps**.  
-- 🌟 Open to **collaborations, hackathons, and tech discussions**.  
-- 📂 <a href="https://my-portfolio-lake-sigma-13.vercel.app/">Portfolio</a>
+- 🌟 Open to **collaborations, hackathons, and tech discussions**.
 - 📄 <a href="https://drive.google.com/file/d/1YT8nISDj2UCK_WAHDVH6W6NMn8R4EH0C/view?usp=sharing">Resume</a>
+- 📂 <a href="https://my-portfolio-lake-sigma-13.vercel.app/">Portfolio</a>
 ---
 
 ## 🔗 Connect with Me  
